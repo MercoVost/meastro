@@ -1,5 +1,6 @@
 # meastro
 Якуб
+<<<<<<< HEAD
 thrsthsrhhrh
 dfsdfjkldf
 fdsflsdg
@@ -17,3 +18,8 @@ sdf
 
 
 
+=======
+werfgjspjg
+glsdpfglsg
+sdfg;sldgsgs
+>>>>>>> 558b18269afd03c31f77b1d018d0ac316c08af75
